@@ -6,8 +6,10 @@ Gradle
 
 ## Dependencies:
 Spring Boot
+
 Mapstruct
 
 ## Used API's:
-Google Cloud geocaching API
+Google Cloud geocoding API
+
 OpenWeatherMap One Call API
